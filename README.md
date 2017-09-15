@@ -4,4 +4,4 @@ Noob maker and Python coder on the block. Hopefully adding my projects that i ho
 See my experiments with the CamJam EduKit's at my other website at :- 
 # link to my CamJam EduKit website!
 
-[Press GO!] (https://noobcoder-and-maker.github.io/NoobCoders-experiments-with-the-CamJam-EduKit)
+[Link to my site GO!](https://noobcoder-and-maker.github.io/NoobCoders-experiments-with-the-CamJam-EduKit)
