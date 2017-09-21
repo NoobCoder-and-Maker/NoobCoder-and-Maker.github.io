@@ -11,4 +11,4 @@ See my experiments with the CamJam EduKit's at my other Github website at :-
        \  /
         \/
 
-# [Link to my site GO!](https://noobcoder-and-maker.github.io/CamJam-EduKit-1-Adventures/)
+# [Link to my site NoobCodersCamJamAdventures.gy Go Go GO!](http://noobcoderscamjamadventures.gq)
