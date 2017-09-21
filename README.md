@@ -6,9 +6,7 @@ Noob maker and Python coder on the block. Hopefully adding my projects that i ho
 
 See my experiments with the CamJam EduKit's at my other Github website at :- 
 ### Here's a link to my CamJam EduKit website!
+## [Link to my site NoobCodersCamJamAdventures.gq Go Go GO!](http://noobcoderscamjamadventures.gq)
 
-        |
-       \  /
-        \/
-
-# [Link to my site NoobCodersCamJamAdventures.gq Go Go GO!](http://noobcoderscamjamadventures.gq)
+## [What about my blog, over at NoobCodersBlog.gq!](http://noobcodersblog.gq)
+## And finally :- My twiter handle is @NoobCoder_Maker
