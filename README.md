@@ -1,4 +1,8 @@
-![My Logo](/images/small_logo.png)
+<div>
+  <p align="center">
+  <img src="Images/NoobCoder_Logo_Icon.png">
+  </p>
+</div>
 
 Noob maker and Python, HTML, CSS, C and JavaScript coder on the block. Hopefully adding the projects that I hope to create over the coming few months,and maybe even years! We will be experimenting with electronics including my Raspberry Pi's, Arduino Uno, Micro:bit and others, writing code predominantly using Python for the Pi and C with the Arduino IDE. I also intend to do some dabling with Microsoft Visual Studio 2017 community edition.
 
