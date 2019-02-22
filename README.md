@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-  <img src="Images/NoobCoder_Logo_Icon.png">
+  <img src="images/NoobCoder_Logo_Icon.png">
   </p>
 </div>
 
