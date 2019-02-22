@@ -4,9 +4,13 @@ Noob maker and Python, HTML, CSS, C and JavaScript coder on the block. Hopefully
 
  [Here's my NoobCoder-And-Maker.gq Website!](http://noobcoder-and-maker.gq)
 
-See my experiments with the CamJam EduKit 1 and 2 at my other Github website at :- 
+See my experiments with the CamJam EduKit 1 and 2 at my other Github website.
 
- [NoobCoder-CamJam-Adventures.gq Go Go GO!](http://noobcoder-camjam-adventures.gq)
+ [Here's my NoobCoder-CamJam-Adventures.gq Go Go GO!](http://noobcoder-camjam-adventures.gq)
+ 
+ What about my blog, over at.
 
- [What about my blog, over at NoobCoder-And-Maker-Blog.gq!](http://noobcoder-and-maker-blog.gq)
- And finally :- My twiter handle is @NoobCoder_Maker
+ [NoobCoder-And-Maker-Blog.gq!](http://noobcoder-and-maker-blog.gq)
+
+And finally :- My twiter feed is over at.
+[@NoobCoder_Maker](https://twitter.com/NoobCoder_Maker)
